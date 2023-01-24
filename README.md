@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PShorin
+- 👋 Hi, I’m Pavel Shorin
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently a junior Front-end development
 - 📫 How to reach me: Telegram: @Shor_in; Twitter: @PShorin
 
 <!---
