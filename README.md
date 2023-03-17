@@ -18,8 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PShorin&count_private=true&show_icons=true&theme=dark&icon_color=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PShorin&count_private=true&show_icons=true&theme=dark&icon_color=white&hide_border=true)
 
 
 <!---
