@@ -18,9 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PShorin&count_private=true&show_icons=true&theme=dark&icon_color=white&hide_border=true)
-
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PShorin&count_private=true&show_icons=true&theme=dark&icon_color=white&hide_border=false&hide=issues,contribs&bg_color=00000000#gh-dark-mode-only)](https://github.com/PShorin/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PShorin&show_icons=true&theme=default&hide=issues,contribs&count_private=true#gh-light-mode-only)](https://github.com/PShorin/github-readme-stats#gh-light-mode-only)
 <!---
 PShorin/PShorin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
