@@ -13,6 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=000)
 ![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=000)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
