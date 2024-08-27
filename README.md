@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="32px"> Hi, I am Pavel Shorin 👨‍💻
 
-- 🌱 Frontend Developer
+- 🌱 Frontend Developer at Yandex
 
 - 📫 How to reach me: Telegram: [@Shor_in](https://www.t.me/shor_in); Gmail: [pavel.shorin98@gmail.com](mailto:pavel.shorin98@gmail.com)
 
